@@ -18,192 +18,192 @@
     {
       "displayName": "Script Templates",
       "description": "Contains script templates",
-      "path": "Assets/ScriptTemplates~"
+      "path": "../ScriptTemplates~"
     },
     {
       "displayName": "Common Sample",
       "description": "Common Sample",
-      "path": "Assets/Mirror/Examples~/_Common"
+      "path": "Examples~/_Common"
     },
     {
       "displayName": "Additive Levels",
       "description": "Additive Levels",
-      "path": "Assets/Mirror/Examples~/AdditiveLevels"
+      "path": "Examples~/AdditiveLevels"
     },
     {
       "displayName": "Additive Scenes",
       "description": "Additive Scenes",
-      "path": "Assets/Mirror/Examples~/AdditiveScenes"
+      "path": "Examples~/AdditiveScenes"
     },
     {
       "displayName": "Assign Authority",
       "description": "Assign Authority",
-      "path": "Assets/Mirror/Examples~/AssignAuthority"
+      "path": "Examples~/AssignAuthority"
     },
     {
       "displayName": "Auto LAN Client Controller",
       "description": "Auto LAN Client Controller",
-      "path": "Assets/Mirror/Examples~/AutoLANClientController"
+      "path": "Examples~/AutoLANClientController"
     },
     {
       "displayName": "Basic",
       "description": "Basic",
-      "path": "Assets/Mirror/Examples~/Basic"
+      "path": "Examples~/Basic"
     },
     {
       "displayName": "Benchmark",
       "description": "Benchmark",
-      "path": "Assets/Mirror/Examples~/Benchmark"
+      "path": "Examples~/Benchmark"
     },
     {
       "displayName": "Benchmark Idle",
       "description": "Benchmark Idle",
-      "path": "Assets/Mirror/Examples~/BenchmarkIdle"
+      "path": "Examples~/BenchmarkIdle"
     },
     {
       "displayName": "Benchmark Prediction",
       "description": "Benchmark Prediction",
-      "path": "Assets/Mirror/Examples~/BenchmarkPrediction"
+      "path": "Examples~/BenchmarkPrediction"
     },
     {
       "displayName": "Benchmark Stinky Steak",
       "description": "Benchmark Stinky Steak",
-      "path": "Assets/Mirror/Examples~/BenchmarkStinkySteak"
+      "path": "Examples~/BenchmarkStinkySteak"
     },
     {
       "displayName": "Billiards",
       "description": "Billiards",
-      "path": "Assets/Mirror/Examples~/Billiards"
+      "path": "Examples~/Billiards"
     },
     {
       "displayName": "Billiards Predicted",
       "description": "Billiards Predicted",
-      "path": "Assets/Mirror/Examples~/BilliardsPredicted"
+      "path": "Examples~/BilliardsPredicted"
     },
     {
       "displayName": "CCU",
       "description": "CCU",
-      "path": "Assets/Mirror/Examples~/CCU"
+      "path": "Examples~/CCU"
     },
     {
       "displayName": "Character Selection",
       "description": "Character Selection",
-      "path": "Assets/Mirror/Examples~/CharacterSelection"
+      "path": "Examples~/CharacterSelection"
     },
     {
       "displayName": "Chat",
       "description": "Chat",
-      "path": "Assets/Mirror/Examples~/Chat"
+      "path": "Examples~/Chat"
     },
     {
       "displayName": "Couch Coop",
       "description": "Couch Coop",
-      "path": "Assets/Mirror/Examples~/CouchCoop"
+      "path": "Examples~/CouchCoop"
     },
     {
       "displayName": "Discovery",
       "description": "Discovery",
-      "path": "Assets/Mirror/Examples~/Discovery"
+      "path": "Examples~/Discovery"
     },
     {
       "displayName": "Edgegap Lobby",
       "description": "Edgegap Lobby",
-      "path": "Assets/Mirror/Examples~/EdgegapLobby"
+      "path": "Examples~/EdgegapLobby"
     },
     {
       "displayName": "Editor",
       "description": "Editor",
-      "path": "Assets/Mirror/Examples~/Editor"
+      "path": "Examples~/Editor"
     },
     {
       "displayName": "Hex Spatial Hash",
       "description": "Hex Spatial Hash",
-      "path": "Assets/Mirror/Examples~/HexSpatialHash"
+      "path": "Examples~/HexSpatialHash"
     },
     {
       "displayName": "Lag Compensation",
       "description": "Lag Compensation",
-      "path": "Assets/Mirror/Examples~/LagCompensation"
+      "path": "Examples~/LagCompensation"
     },
     {
       "displayName": "Multiple Additive Scenes",
       "description": "Multiple Additive Scenes",
-      "path": "Assets/Mirror/Examples~/MultipleAdditiveScenes"
+      "path": "Examples~/MultipleAdditiveScenes"
     },
     {
       "displayName": "Multiple Matches",
       "description": "Multiple Matches",
-      "path": "Assets/Mirror/Examples~/MultipleMatches"
+      "path": "Examples~/MultipleMatches"
     },
     {
       "displayName": "Pickups Drops Childs",
       "description": "Pickups Drops Childs",
-      "path": "Assets/Mirror/Examples~/PickupsDropsChilds"
+      "path": "Examples~/PickupsDropsChilds"
     },
     {
       "displayName": "Player Test",
       "description": "Player Test",
-      "path": "Assets/Mirror/Examples~/PlayerTest"
+      "path": "Examples~/PlayerTest"
     },
     {
       "displayName": "Pong",
       "description": "Pong",
-      "path": "Assets/Mirror/Examples~/Pong"
+      "path": "Examples~/Pong"
     },
     {
       "displayName": "Rigidbody Benchmark",
       "description": "Rigidbody Benchmark",
-      "path": "Assets/Mirror/Examples~/RigidbodyBenchmark"
+      "path": "Examples~/RigidbodyBenchmark"
     },
     {
       "displayName": "Rigidbody Physics",
       "description": "Rigidbody Physics",
-      "path": "Assets/Mirror/Examples~/RigidbodyPhysics"
+      "path": "Examples~/RigidbodyPhysics"
     },
     {
       "displayName": "Room",
       "description": "Room",
-      "path": "Assets/Mirror/Examples~/Room"
+      "path": "Examples~/Room"
     },
     {
       "displayName": "Snapshot Interpolation",
       "description": "Snapshot Interpolation",
-      "path": "Assets/Mirror/Examples~/Snapshot%20Interpolation"
+      "path": "Examples~/Snapshot%20Interpolation"
     },
     {
       "displayName": "Stacked Prediction",
       "description": "Stacked Prediction",
-      "path": "Assets/Mirror/Examples~/StackedPrediction"
+      "path": "Examples~/StackedPrediction"
     },
     {
       "displayName": "Sync Direction",
       "description": "Sync Direction",
-      "path": "Assets/Mirror/Examples~/SyncDirection"
+      "path": "Examples~/SyncDirection"
     },
     {
       "displayName": "Tanks",
       "description": "Tanks",
-      "path": "Assets/Mirror/Examples~/Tanks"
+      "path": "Examples~/Tanks"
     },
     {
       "displayName": "Tanks Hybrid",
       "description": "Tanks Hybrid",
-      "path": "Assets/Mirror/Examples~/TanksHybrid"
+      "path": "Examples~/TanksHybrid"
     },
     {
       "displayName": "Tank Theft Auto",
       "description": "Tank Theft Auto",
-      "path": "Assets/Mirror/Examples~/TankTheftAuto"
+      "path": "Examples~/TankTheftAuto"
     },
     {
       "displayName": "Top Down Shooter",
       "description": "Top Down Shooter",
-      "path": "Assets/Mirror/Examples~/TopDownShooter"
+      "path": "Examples~/TopDownShooter"
     },
     {
       "displayName": "VR",
       "description": "VR",
-      "path": "Assets/Mirror/Examples~/VR"
+      "path": "Examples~/VR"
     }
   ]
 }
