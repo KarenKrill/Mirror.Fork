@@ -1,0 +1,209 @@
+{
+  "name": "com.mirror-networking.mirror",
+  "version": "96.10.0",
+  "displayName": "Mirror",
+  "description": "#1 Open Source Unity Networking Library",
+  "unity": "2021.3",
+  "unityRelease": "45f1",
+  "documentationUrl": "https://mirror-networking.gitbook.io/docs",
+  "licensesUrl": "https://github.com/MirrorNetworking/Mirror/blob/master/LICENSE",
+  "keywords": [ "Networking", "Mirror", "UNet", "Multiplayer", "KCP", "Telepathy", "Netcode" ],
+  "category": "Tools/Network",
+  "author": {
+    "name": "Mirror Networking",
+    "email": "assetstore@mirror-networking.com",
+    "url": "https://mirror-networking.com/"
+  },
+  "samples": [
+    {
+      "displayName": "Script Templates",
+      "description": "Contains script templates",
+      "path": "ScriptTemplates~"
+    },
+    {
+      "displayName": "Common Sample",
+      "description": "Common Sample",
+      "path": "Examples~/_Common"
+    },
+    {
+      "displayName": "Additive Levels",
+      "description": "Additive Levels",
+      "path": "Examples~/AdditiveLevels"
+    },
+    {
+      "displayName": "Additive Scenes",
+      "description": "Additive Scenes",
+      "path": "Examples~/AdditiveScenes"
+    },
+    {
+      "displayName": "Assign Authority",
+      "description": "Assign Authority",
+      "path": "Examples~/AssignAuthority"
+    },
+    {
+      "displayName": "Auto LAN Client Controller",
+      "description": "Auto LAN Client Controller",
+      "path": "Examples~/AutoLANClientController"
+    },
+    {
+      "displayName": "Basic",
+      "description": "Basic",
+      "path": "Examples~/Basic"
+    },
+    {
+      "displayName": "Benchmark",
+      "description": "Benchmark",
+      "path": "Examples~/Benchmark"
+    },
+    {
+      "displayName": "Benchmark Idle",
+      "description": "Benchmark Idle",
+      "path": "Examples~/BenchmarkIdle"
+    },
+    {
+      "displayName": "Benchmark Prediction",
+      "description": "Benchmark Prediction",
+      "path": "Examples~/BenchmarkPrediction"
+    },
+    {
+      "displayName": "Benchmark Stinky Steak",
+      "description": "Benchmark Stinky Steak",
+      "path": "Examples~/BenchmarkStinkySteak"
+    },
+    {
+      "displayName": "Billiards",
+      "description": "Billiards",
+      "path": "Examples~/Billiards"
+    },
+    {
+      "displayName": "Billiards Predicted",
+      "description": "Billiards Predicted",
+      "path": "Examples~/BilliardsPredicted"
+    },
+    {
+      "displayName": "CCU",
+      "description": "CCU",
+      "path": "Examples~/CCU"
+    },
+    {
+      "displayName": "Character Selection",
+      "description": "Character Selection",
+      "path": "Examples~/CharacterSelection"
+    },
+    {
+      "displayName": "Chat",
+      "description": "Chat",
+      "path": "Examples~/Chat"
+    },
+    {
+      "displayName": "Couch Coop",
+      "description": "Couch Coop",
+      "path": "Examples~/CouchCoop"
+    },
+    {
+      "displayName": "Discovery",
+      "description": "Discovery",
+      "path": "Examples~/Discovery"
+    },
+    {
+      "displayName": "Edgegap Lobby",
+      "description": "Edgegap Lobby",
+      "path": "Examples~/EdgegapLobby"
+    },
+    {
+      "displayName": "Editor",
+      "description": "Editor",
+      "path": "Examples~/Editor"
+    },
+    {
+      "displayName": "Hex Spatial Hash",
+      "description": "Hex Spatial Hash",
+      "path": "Examples~/HexSpatialHash"
+    },
+    {
+      "displayName": "Lag Compensation",
+      "description": "Lag Compensation",
+      "path": "Examples~/LagCompensation"
+    },
+    {
+      "displayName": "Multiple Additive Scenes",
+      "description": "Multiple Additive Scenes",
+      "path": "Examples~/MultipleAdditiveScenes"
+    },
+    {
+      "displayName": "Multiple Matches",
+      "description": "Multiple Matches",
+      "path": "Examples~/MultipleMatches"
+    },
+    {
+      "displayName": "Pickups Drops Childs",
+      "description": "Pickups Drops Childs",
+      "path": "Examples~/PickupsDropsChilds"
+    },
+    {
+      "displayName": "Player Test",
+      "description": "Player Test",
+      "path": "Examples~/PlayerTest"
+    },
+    {
+      "displayName": "Pong",
+      "description": "Pong",
+      "path": "Examples~/Pong"
+    },
+    {
+      "displayName": "Rigidbody Benchmark",
+      "description": "Rigidbody Benchmark",
+      "path": "Examples~/RigidbodyBenchmark"
+    },
+    {
+      "displayName": "Rigidbody Physics",
+      "description": "Rigidbody Physics",
+      "path": "Examples~/RigidbodyPhysics"
+    },
+    {
+      "displayName": "Room",
+      "description": "Room",
+      "path": "Examples~/Room"
+    },
+    {
+      "displayName": "Snapshot Interpolation",
+      "description": "Snapshot Interpolation",
+      "path": "Examples~/Snapshot%20Interpolation"
+    },
+    {
+      "displayName": "Stacked Prediction",
+      "description": "Stacked Prediction",
+      "path": "Examples~/StackedPrediction"
+    },
+    {
+      "displayName": "Sync Direction",
+      "description": "Sync Direction",
+      "path": "Examples~/SyncDirection"
+    },
+    {
+      "displayName": "Tanks",
+      "description": "Tanks",
+      "path": "Examples~/Tanks"
+    },
+    {
+      "displayName": "Tanks Hybrid",
+      "description": "Tanks Hybrid",
+      "path": "Examples~/TanksHybrid"
+    },
+    {
+      "displayName": "Tank Theft Auto",
+      "description": "Tank Theft Auto",
+      "path": "Examples~/TankTheftAuto"
+    },
+    {
+      "displayName": "Top Down Shooter",
+      "description": "Top Down Shooter",
+      "path": "Examples~/TopDownShooter"
+    },
+    {
+      "displayName": "VR",
+      "description": "VR",
+      "path": "Examples~/VR"
+    }
+  ]
+}
